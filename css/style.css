@@ -1,4 +1,20 @@
-/* Created by: Mr. Coxall
-* Created on: Sep 2020
-* This file contains the CSS for index.html
+/* Created by: Anastasiia Lebedenko
+* Created on: Mar 2025
+* This CSS file defines the style for index.html
+* ICS2O-Assign-02-HTML-Calculations
 */
+
+body {
+    background-color: rgb(189, 240, 177);
+}
+
+h1 {
+    background-color: rgb(255, 255, 255);
+    color: hsl(145, 63%, 32%);
+    padding: 40px;
+    text-align: center;
+}
+
+p {
+    background-color: #ffffff;
+}
